@@ -1,5 +1,6 @@
 package studentdatabaseapplication;
 
+
 public enum GradeLevel {
     MATRIC(1, "Martic"),
     INTERMEDIATE(2, "Intermediate"),
